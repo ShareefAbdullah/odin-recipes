@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: yellowgreen;
+    background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+  
+}
+.img {
+    width: 700px;
+    height: auto;
+}
+li {
+    margin:auto;
+    width: 70%;
+}
